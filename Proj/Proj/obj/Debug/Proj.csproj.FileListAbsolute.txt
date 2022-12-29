@@ -1,0 +1,11 @@
+C:\Users\DARTNES\Desktop\Proj\Proj\bin\Debug\Proj.exe.config
+C:\Users\DARTNES\Desktop\Proj\Proj\bin\Debug\Proj.exe
+C:\Users\DARTNES\Desktop\Proj\Proj\bin\Debug\Proj.pdb
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.csproj.AssemblyReference.cache
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.csproj.SuggestedBindingRedirects.cache
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.Form1.resources
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.cache
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.csproj.CoreCompileInputs.cache
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.exe
+C:\Users\DARTNES\Desktop\Proj\Proj\obj\Debug\Proj.pdb
